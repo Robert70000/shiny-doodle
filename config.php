@@ -30,7 +30,7 @@
 $dbdsn = "";
 
 // Database user name
-$dbuser = "";
+$dbuser = "Robert77a";
 
 // Database user password
 $dbpass = "";
