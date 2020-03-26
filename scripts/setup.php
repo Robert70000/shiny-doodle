@@ -18,7 +18,7 @@
  */
 
 // This script is disabled by default. Change below to true before running.
-$enabled = false;
+$enabled = true;
 
 
 /* -------------------------------------------- */
