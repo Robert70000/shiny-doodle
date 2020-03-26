@@ -1,0 +1,18 @@
+Changelog
+
+0.3 fix altitudes chart
+    fix time zone issues
+    improve gpx imports
+    various fixes
+
+0.2 lots of bug fixes,
+    major code cleanup,
+    admin menu,
+    translations,
+    public tracks,
+    interface look tweaks,
+    track editing,
+    track importing,
+    installer script
+
+0.1 initial version
